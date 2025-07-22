@@ -1,1 +1,1 @@
-$ENV:GIT_CONFIG_GLOBAL="~/.config/gitconfig/gitconfig"
+$ENV:GIT_CONFIG_GLOBAL="$HOME/.config/gitconfig/gitconfig"
